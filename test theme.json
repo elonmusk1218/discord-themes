@@ -1,0 +1,136 @@
+{
+    "name": "test theme",
+    "description": "wla ako paki, kay mika to",
+    "authors": [
+        {
+            "name": "Mikaela",
+            "id": "607083298996486183"
+        }
+
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#A07D6C"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#EFDFD7"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#503E38"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#EFDFD7"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#957261"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#110D0A"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#15100d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#110D0A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#503E38"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#15100d"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#322720"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#322720"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#3a2c26"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#372d2b"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "503E38"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#5B61A1"
+        ],
+        "TEXT_LINK": [
+            "#5B61A1"
+        ],
+        "TEXT_DANGER": [
+            "#004B57"
+        ],
+        "KEYBOARD": [
+            "#BBD2EC"
+        ],
+        "CHANNEL_ICON": [
+            "#004F92"
+        ],
+        "CHAT_BACKGROUND": [
+            "#003A88"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#9E8376",
+        "PRIMARY_100": "#EFDFD7",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#9E8376",
+        "PRIMARY_360": "#9E8376",
+        "PRIMARY_400": "#9E8376",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#957261",
+        "BRAND_360": "#D0A996",
+        "BRAND_500": "#957261",
+        "BRAND_560": "#D0A996",
+        "YELLOW_300": "#957261",
+        "GREEN_600": "#EFDFD7",
+        "RED_400": "#9E8376",
+        "WHITE_500": "#EFDFD7",
+        "GREEN_360": "#503E38"
+    },
+    "spec": 2
+}
